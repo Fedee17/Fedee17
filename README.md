@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fedee17
 - 👀 I’m interested in React 
 - 🌱 I’m currently studying at UTN university
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 
 www.linkedin.com/in/federico-armando-492121202
